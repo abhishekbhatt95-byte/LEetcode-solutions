@@ -1,0 +1,31 @@
+int* intersection(int* nums1, int nums1Size, int* nums2, int nums2Size, int* returnSize) {
+    int max_val = 0;
+    for (int i = 0; i < nums1Size; i++) {
+        if (nums1[i] > max_val) max_val = nums1[i];
+    }
+    for (int i = 0; i < nums2Size; i++) {
+        if (nums2[i] > max_val) max_val = nums2[i];
+    }
+
+    char *flags1 = (char*)calloc(max_val + 1, sizeof(char));
+    char *flags2 = (char*)calloc(max_val + 1, sizeof(char));
+
+    for (int i = 0; i < nums1Size; i++) {
+        flags1[nums1[i]] = 1;
+    }
+    for (int i = 0; i < nums2Size; i++) {
+        flags2[nums2[i]] = 1;
+    }
+    int *result = (int*)malloc(sizeof(int) * (nums1Size < nums2Size ? nums1Size : nums2Size));
+    int idx = 0;
+
+    for (int i = 0; i <= max_val; i++) {
+        if (flags1[i] && flags2[i]) {
+            result[idx++] = i;
+        }
+    }
+    *returnSize = idx;
+    free(flags1);
+    free(flags2);
+    return result;
+}
