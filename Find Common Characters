@@ -1,0 +1,35 @@
+char** commonChars(char** words, int wordsSize, int* returnSize) {
+    int ALPHABET_SIZE = 26;
+    int commonFreq[26];
+    for (int i = 0; i < ALPHABET_SIZE; i++) {
+        commonFreq[i] = 1000;
+    }
+    for (int i = 0; i < wordsSize; i++) {
+        int currentFreq[26] = {0};
+        char* word = words[i];
+        for (int j = 0; word[j] != '\0'; j++) {
+            currentFreq[word[j] - 'a']++;
+        }
+        for (int k = 0; k < ALPHABET_SIZE; k++) {
+            if (currentFreq[k] < commonFreq[k]) {
+                commonFreq[k] = currentFreq[k];
+            }
+        }
+    }
+    int totalChars = 0;
+    for (int i = 0; i < ALPHABET_SIZE; i++) {
+        totalChars += commonFreq[i];
+    }
+     *returnSize = totalChars;
+     char** result = (char**)malloc(totalChars * sizeof(char*));
+     int index = 0;
+    for (int i = 0; i < ALPHABET_SIZE; i++) {
+        for (int j = 0; j < commonFreq[i]; j++) {
+            result[index] = (char*)malloc(2 * sizeof(char));
+            result[index][0] = 'a' + i;
+            result[index][1] = '\0';
+            index++;
+        }
+    }
+    return result;
+}
