@@ -20,4 +20,12 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
