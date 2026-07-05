@@ -8,6 +8,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 ## Stack
 |  |
 | ------- |
@@ -27,5 +28,10 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
