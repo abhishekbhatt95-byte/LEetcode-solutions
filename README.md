@@ -24,6 +24,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -34,4 +35,8 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
