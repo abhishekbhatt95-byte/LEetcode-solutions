@@ -10,6 +10,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
+| [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -76,4 +77,16 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
