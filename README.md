@@ -101,4 +101,8 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
