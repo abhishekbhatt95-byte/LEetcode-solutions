@@ -25,6 +25,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
@@ -118,4 +120,12 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
