@@ -45,6 +45,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 ## Simulation
