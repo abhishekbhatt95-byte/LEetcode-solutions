@@ -39,6 +39,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -76,6 +77,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -142,4 +144,8 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
