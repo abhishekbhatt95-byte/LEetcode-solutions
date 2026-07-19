@@ -21,6 +21,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0020-valid-parentheses](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -142,10 +143,12 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
