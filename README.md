@@ -56,6 +56,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -89,6 +90,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -175,6 +177,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting Sort
 |  |
