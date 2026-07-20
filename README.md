@@ -201,4 +201,8 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
