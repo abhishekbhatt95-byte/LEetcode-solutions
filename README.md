@@ -32,6 +32,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0147-insertion-sort-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Recursion
@@ -102,6 +103,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
