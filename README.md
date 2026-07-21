@@ -57,6 +57,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
@@ -168,6 +170,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0225-implement-stack-using-queues](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -209,10 +212,15 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
