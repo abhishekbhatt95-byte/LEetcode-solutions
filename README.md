@@ -8,6 +8,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
@@ -38,6 +39,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -121,6 +123,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 ## Monotonic Stack
