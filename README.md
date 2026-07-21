@@ -43,6 +43,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -103,6 +105,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
