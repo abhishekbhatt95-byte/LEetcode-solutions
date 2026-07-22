@@ -74,6 +74,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0007-reverse-integer](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -125,6 +127,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 ## Monotonic Stack
 |  |
@@ -168,6 +171,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
