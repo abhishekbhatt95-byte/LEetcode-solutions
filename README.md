@@ -15,6 +15,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -56,6 +57,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0275-h-index-ii) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -235,4 +237,24 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
