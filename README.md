@@ -57,6 +57,7 @@
 | [0275-h-index-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0275-h-index-ii) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -115,6 +116,7 @@
 | [0147-insertion-sort-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
