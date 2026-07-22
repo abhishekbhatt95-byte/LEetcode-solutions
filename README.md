@@ -15,6 +15,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -102,6 +103,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -123,6 +125,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -168,6 +171,7 @@ You are given:  A 2D integer array ranges, where each ranges[i] = [startᵢ, end
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
