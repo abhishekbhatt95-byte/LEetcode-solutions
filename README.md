@@ -71,6 +71,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
+| [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
