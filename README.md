@@ -251,10 +251,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
@@ -268,4 +270,12 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
