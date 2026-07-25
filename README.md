@@ -79,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -98,6 +99,7 @@
 | [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
