@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0197-rising-temperature) |
 ## Divide and Conquer
 |  |
 | ------- |
