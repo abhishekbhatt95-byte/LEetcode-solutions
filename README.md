@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
@@ -93,6 +94,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -221,6 +223,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 ## Monotonic Queue
 |  |
