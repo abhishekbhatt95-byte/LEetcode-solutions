@@ -61,6 +61,7 @@
 | [0414-third-maximum-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -82,6 +83,7 @@
 | [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -127,6 +129,7 @@
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
