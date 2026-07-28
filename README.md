@@ -19,6 +19,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
