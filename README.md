@@ -21,6 +21,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -122,6 +124,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -302,4 +306,8 @@
 | [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
