@@ -23,6 +23,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -78,6 +79,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Math
@@ -174,6 +176,7 @@
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0275-h-index-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -326,4 +329,8 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
