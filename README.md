@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
@@ -165,6 +166,7 @@
 | [0010-regular-expression-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
