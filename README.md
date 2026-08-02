@@ -72,6 +72,7 @@
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -95,6 +96,7 @@
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -169,6 +171,7 @@
 | [0055-jump-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
+| [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
@@ -340,4 +343,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
