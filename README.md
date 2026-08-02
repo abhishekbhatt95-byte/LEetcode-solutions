@@ -298,6 +298,7 @@
 | [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
@@ -324,6 +325,7 @@
 | [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
