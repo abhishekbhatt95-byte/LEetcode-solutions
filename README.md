@@ -63,6 +63,7 @@
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0134-gas-station) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0274-h-index) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0275-h-index-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
