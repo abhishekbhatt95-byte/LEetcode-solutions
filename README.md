@@ -96,6 +96,7 @@
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0553-optimal-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -257,6 +259,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
