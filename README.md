@@ -309,6 +309,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3310-remove-methods-from-project](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3310-remove-methods-from-project](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+| [3310-remove-methods-from-project](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
