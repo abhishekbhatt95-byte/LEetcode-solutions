@@ -306,6 +306,7 @@
 | [0100-same-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -340,6 +341,7 @@
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -350,6 +352,7 @@
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Combinatorics
