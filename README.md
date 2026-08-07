@@ -23,6 +23,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -104,6 +105,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -261,6 +263,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -372,4 +376,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
