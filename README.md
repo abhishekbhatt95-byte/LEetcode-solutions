@@ -87,6 +87,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -142,6 +143,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -168,6 +170,7 @@
 | [0239-sliding-window-maximum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
