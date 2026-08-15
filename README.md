@@ -24,6 +24,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -147,6 +148,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
@@ -173,6 +175,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
