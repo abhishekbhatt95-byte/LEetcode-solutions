@@ -87,6 +87,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -108,6 +109,7 @@
 | [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -281,6 +284,7 @@
 | [0134-gas-station](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Queue
@@ -389,6 +393,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -397,4 +402,16 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
