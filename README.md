@@ -36,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -325,6 +326,7 @@
 | [0101-symmetric-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
@@ -362,6 +364,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -374,6 +377,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
