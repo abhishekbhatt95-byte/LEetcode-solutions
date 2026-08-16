@@ -66,6 +66,7 @@
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0228-summary-ranges) |
@@ -309,6 +310,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0136-single-number) |
 | [0868-binary-gap](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Data Stream
