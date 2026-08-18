@@ -330,6 +330,7 @@
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0399-evaluate-division) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3310-remove-methods-from-project](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -367,6 +368,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -380,6 +382,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Combinatorics
 |  |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Segment Tree
 |  |
