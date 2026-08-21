@@ -168,6 +168,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
@@ -333,6 +334,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3310-remove-methods-from-project](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
