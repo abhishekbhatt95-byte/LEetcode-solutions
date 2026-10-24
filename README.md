@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0027-remove-element) |
@@ -139,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
