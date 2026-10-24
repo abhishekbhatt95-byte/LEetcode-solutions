@@ -106,6 +106,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abhishekbhatt95-byte/LEetcode-solutions/tree/master/0202-happy-number) |
